@@ -1,0 +1,3 @@
+interface IProblem {
+    void Solve();
+}
